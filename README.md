@@ -6,7 +6,7 @@ Uma **interface de linha de comando** para automação de navegadores, projetada
 
 ---
 
-## Por que precisamos da CLI do Playwright?
+## Por que usar Playwright CLI?
 
 Embora o MCP proporcione uma interação rica com o navegador, ele também introduz uma limitação crítica. Com o MCP, o agente recebe árvores de acessibilidade, esquemas de ferramentas, metadados da página e registros do console. Embora essa resposta seja extremamente rica, toda essa quantidade de dados sobrecarrega a janela de contexto da IA e reduz o espaço para raciocínio mais profundo e geração de código.
 
