@@ -8,6 +8,7 @@ Uma **interface de linha de comando** para automação de navegadores, projetada
 
 ## Exemplos
 
+```bash
 $ playwright-cli open https://demo.playwright.dev/todomvc --headed
 $ playwright-cli type "Buy groceries"
 $ playwright-cli press Enter
@@ -15,6 +16,7 @@ $ playwright-cli type "Water flowers"
 $ playwright-cli press Enter
 $ playwright-cli check e21
 $ playwright-cli screenshot
+```
 
 ---
 
